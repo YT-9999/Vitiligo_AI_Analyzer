@@ -1,0 +1,23 @@
+# 可执行文件和临时文件
+dist/
+build/
+dist_obf/
+*.exe
+*.log
+temp/
+unprocessed.txt
+
+# 模型文件（太大，不适合直接上传）
+*.pth
+*.onnx
+*.onnx.data
+checkpoints/
+model_key.key
+
+# Python 缓存
+__pycache__/
+*.pyc
+*.pyo
+
+# 环境配置
+physical_sizes.csv

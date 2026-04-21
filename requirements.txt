@@ -1,0 +1,10 @@
+opencv-python==4.8.1.78
+numpy==1.26.4
+pandas==2.0.3
+matplotlib==3.9.4
+Pillow==11.3.0
+onnxruntime==1.19.2
+torch==2.8.0
+torchvision==0.23.0
+depth_pro @ git+https://github.com/apple/ml-depth-pro.git
+cryptography
