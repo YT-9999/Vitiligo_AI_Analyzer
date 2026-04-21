@@ -26,7 +26,7 @@
 ├── utils_depth.py # Depth Pro 工具函数
 ├── requirements.txt # Python 依赖列表
 ├── LICENSE # MIT 许可证
-├── README.md # 本文件
+├── README.md # 项目说明文档
 ├── checkpoints/ # Depth Pro 预训练权重（需自行下载）
 └── vitiligo_model.onnx # U-Net 分割模型（需自行训练或下载）
 
