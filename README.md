@@ -21,7 +21,6 @@
 3. **AI 自动分割**（推荐）：基于 U-Net 深度学习模型，全自动识别白斑区域，无需人工干预。
 
 ## 📁 项目结构
-
 .
 ├── main.py # 主程序入口
 ├── utils_depth.py # Depth Pro 工具函数
@@ -30,7 +29,6 @@
 ├── README.md # 本文件
 ├── checkpoints/ # Depth Pro 预训练权重（需自行下载）
 └── vitiligo_model.onnx # U-Net 分割模型（需自行训练或下载）
-
 
 ## 🚀 快速开始
 
